@@ -9,8 +9,7 @@
     │── main.c  
     │── conanfile.txt
     │── README.md  
-    │── assets/  
-    │   ── demo.gif  
+    │── assets/ 
     └── src/  
         ├── database.py  
         ├── task_manager.py  
