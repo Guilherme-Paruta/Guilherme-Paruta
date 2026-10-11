@@ -6,11 +6,11 @@
     
     ```
     task-manager-cli/  
-    │── main.py  
-    │── requirements.txt  
+    │── main.c  
+    │── conanfile.txt
     │── README.md  
     │── assets/  
-    │   └── demo.gif  
+    │   ── demo.gif  
     └── src/  
         ├── database.py  
         ├── task_manager.py  
