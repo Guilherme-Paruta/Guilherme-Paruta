@@ -22,4 +22,4 @@ O funcionamento dessa calculadora consiste em calcular os primeiros 10 produtos 
 É importante ressaltar que o valor do terminal tem que ser um número natural entre 0 e 1000.
 
 # Calculadora:
-https://pz.run/1POhPaGpzldxW
+A calculadora está no link do 'main.py'
