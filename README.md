@@ -1,21 +1,25 @@
-## Base para calculadora em c
- Essa é uma base para uma calculadora em c, vale ressaltar que ela ainda não funciona, mas sinta-se livre para modifica-la
- Link:https://www.programiz.com/online-compiler/4bPcqaOqOxKzj
+## Base para calculadora em python 
+### Finalidade
+ Essa calculadora tem a intenção de auxiliar professores de matemática a ensinar os alunos à multiplicar números de dois ou três dígitos por números de um dígito, basta colocar o valor de dois ou três dígitos e procurar a multiplicação na tabela gerada.
+### Requisitos para usar
+Para usar essa calculadora é preciso que seu programa esteja pelo menos no python 3.
+### Como usar
+O funcionamento dessa calculadora consiste em calcular os primeiros 10 produtos de um número que seja colocado no terminal por exemplo, o número 15 fará o programa imprimir: 
 
-    ### Project Structure  
-    
-    ```
-    task-manager-cli/  
-    │── main.c  
-    │── conanfile.txt
-    │── README.md  
-    │── assets/ 
-    └── src/  
-        ├── database.py  
-        ├── task_manager.py  
-        └── cli.py  
-    ```
+15 * 1=15 
+
+15 * 2=30 
+
+... 
+
+15 * 10=150. 
 
 
+<img width="697" height="742" alt="image" src="https://github.com/user-attachments/assets/4f12ebfb-2738-4c45-af19-823796ebb854" />
 
- 
+
+É importante ressaltar que o valor do terminal tem que ser um número natural entre 0 e 1000.
+
+# Calculadora:
+[multiplication-table-python.zip](https://github.com/user-attachments/files/34876530/multiplication-table-python.zip)
+
