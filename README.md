@@ -1,8 +1,9 @@
+
 ## Base para calculadora em python 
 ### Finalidade
  Essa calculadora tem a intenção de auxiliar professores de matemática a ensinar os alunos à multiplicar números de dois ou três dígitos por números de um dígito, basta colocar o valor de dois ou três dígitos e procurar a multiplicação na tabela gerada.
 ### Requisitos para usar
-Para usar essa calculadora é preciso que seu programa esteja pelo menos no python 3.
+O link da calculadora abre diretamente no compilador online 'programiz', certifique-se de ter o Python 3 instalado. 
 ### Como usar
 O funcionamento dessa calculadora consiste em calcular os primeiros 10 produtos de um número que seja colocado no terminal por exemplo, o número 15 fará o programa imprimir: 
 
@@ -21,5 +22,4 @@ O funcionamento dessa calculadora consiste em calcular os primeiros 10 produtos 
 É importante ressaltar que o valor do terminal tem que ser um número natural entre 0 e 1000.
 
 # Calculadora:
-[multiplication-table-python.zip](https://github.com/user-attachments/files/34876530/multiplication-table-python.zip)
-
+https://pz.run/1POhPaGpzldxW
